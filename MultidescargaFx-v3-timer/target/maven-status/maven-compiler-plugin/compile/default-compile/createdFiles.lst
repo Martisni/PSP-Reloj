@@ -1,0 +1,7 @@
+com\svalero\downloader\App.class
+com\svalero\downloader\controller\AppController.class
+com\svalero\downloader\task\StopWatchTask.class
+com\svalero\downloader\task\TimerTask.class
+com\svalero\downloader\util\R.class
+com\svalero\downloader\task\ClockTask.class
+com\svalero\downloader\controller\TimerContoller.class

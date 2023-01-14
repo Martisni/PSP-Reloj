@@ -1,0 +1,24 @@
+12:25:18.269 [Timer-0] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+12:25:18.281 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+12:27:06.941 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+12:27:08.985 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+12:29:01.129 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+12:29:03.145 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+12:33:28.835 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+12:33:30.850 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada13:10:58.967 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga  creada
+13:11:53.959 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+13:11:58.975 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+13:13:30.608 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+13:13:31.624 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+13:15:42.110 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+13:15:43.126 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+13:15:53.382 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+13:15:58.392 [Thread-7] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+13:21:28.327 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+13:21:33.344 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+13:26:10.098 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+13:26:10.108 [Thread-5] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+13:26:18.535 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+13:26:23.544 [Thread-7] TRACE com.svalero.downloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+13:14:23.934 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga  creada
+13:14:55.389 [JavaFX Application Thread] INFO  com.svalero.downloader.controller.DownloadController - Descarga  creada
